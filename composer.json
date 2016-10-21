@@ -4,8 +4,7 @@
   "license": "MIT",
   "description": "bluz facebook auth module",
   "require": {
-    "kvasenko/composer-installer-bluz": "dev-composer-installer",
-    "kvasenko/bluz-auth-module": "dev-master"
+    "kvasenko/composer-installer-bluz": "dev-composer-installer"
   },
   "extra": {
     "bluz": {
